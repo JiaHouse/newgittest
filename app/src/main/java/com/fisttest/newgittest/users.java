@@ -12,4 +12,5 @@ public class users {
     }
     private String doing;
     //修改了的代码
+    private String testing;
 }
